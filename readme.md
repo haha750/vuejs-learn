@@ -1,12 +1,15 @@
 # 视频主旨
 
+
   个人喜欢 vue.js , 跟 ng，react相比，react，要很成熟的js基础，才能驾馭，ng 对个人来说太难，ng2 走微软派，个人对微软反感。
   vue.js 是个很优秀的 mvvm，对于组件的交互行为是方便又快速的。
   仅对 vue.js 官网做视频讲解，vue.js 官网所有的章节，用代码实证。
 
 # Vue.Js 2 官网讲解
-  
-  https://github.com/bhnddowinf/vuejs2-learn
+ 
+> 前端的环境是3个月不学习，之前所学过的，会越来越没有用，所以 vue2，出来，小凡不维护了此 vue1，前端要往前看，可以停留一下下，但3个月不往前走，就是归零，在此无比感谢有上千人按 star。
+
+> https://github.com/bhnddowinf/vuejs2-learn
   
 
 
